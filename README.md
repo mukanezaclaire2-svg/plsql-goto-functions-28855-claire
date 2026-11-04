@@ -9,10 +9,6 @@ assignment III
 | Student Name | MUKANEZA Claire |
 | Student ID | 28855 |
 | Assignment | Individual Assignment III |
-| Course | PL/SQL Programming |
-| Database | Oracle Database 21c XE |
-| Development Tool | Oracle SQL Developer |
-| Repository Visibility | Public |
 
 ---
 
