@@ -6,7 +6,7 @@ assignment III
 
 | Description | Details |
 |---|---|
-| Student Name | Claire |
+| Student Name | MUKANEZA Claire |
 | Student ID | 28855 |
 | Assignment | Individual Assignment III |
 | Course | PL/SQL Programming |
